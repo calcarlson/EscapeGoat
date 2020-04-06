@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: 01a6e3d0151728c4da4676f43e88b3df
+timeCreated: 1454248186
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Back foot.L
+    100004: Back foot.L_end
+    100006: Back foot.R
+    100008: Back foot.R_end
+    100010: Back IK.L
+    100012: Back IK.L_end
+    100014: Back IK.R
+    100016: Back IK.R_end
+    100018: Back low.L
+    100020: Back low.R
+    100022: Back Up leg.L
+    100024: Back Up leg.R
+    100026: body
+    100028: Bone.019
+    100030: Bone.019_end
+    100032: Chest
+    100034: Fron Up.R
+    100036: Front foot.L
+    100038: Front foot.L_end
+    100040: Front IK.L
+    100042: Front IK.L_end
+    100044: Front IK.R
+    100046: Front IK.R_end
+    100048: Front Low.L
+    100050: Front Low.R
+    100052: Front Up.L
+    100054: //RootNode
+    100056: Head
+    100058: Head_end
+    100060: Hip.L
+    100062: Hip.R
+    100064: Knee Back.L
+    100066: Knee Back.L_end
+    100068: Knee back.R
+    100070: Knee back.R_end
+    100072: Knee Front.L
+    100074: Knee Front.L_end
+    100076: Knee Front.R
+    100078: Knee Front.R_end
+    100080: Neck
+    100082: Shoulder.L
+    100084: Shoulder.R
+    100086: Stomach
+    400000: Armature
+    400002: Back foot.L
+    400004: Back foot.L_end
+    400006: Back foot.R
+    400008: Back foot.R_end
+    400010: Back IK.L
+    400012: Back IK.L_end
+    400014: Back IK.R
+    400016: Back IK.R_end
+    400018: Back low.L
+    400020: Back low.R
+    400022: Back Up leg.L
+    400024: Back Up leg.R
+    400026: body
+    400028: Bone.019
+    400030: Bone.019_end
+    400032: Chest
+    400034: Fron Up.R
+    400036: Front foot.L
+    400038: Front foot.L_end
+    400040: Front IK.L
+    400042: Front IK.L_end
+    400044: Front IK.R
+    400046: Front IK.R_end
+    400048: Front Low.L
+    400050: Front Low.R
+    400052: Front Up.L
+    400054: //RootNode
+    400056: Head
+    400058: Head_end
+    400060: Hip.L
+    400062: Hip.R
+    400064: Knee Back.L
+    400066: Knee Back.L_end
+    400068: Knee back.R
+    400070: Knee back.R_end
+    400072: Knee Front.L
+    400074: Knee Front.L_end
+    400076: Knee Front.R
+    400078: Knee Front.R_end
+    400080: Neck
+    400082: Shoulder.L
+    400084: Shoulder.R
+    400086: Stomach
+    4300000: body
+    7400000: Armature|ArmatureAction
+    9500000: //RootNode
+    13700000: body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|ArmatureAction
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Back IK.L
+        weight: 1
+      - path: Armature/Back IK.L/Back IK.L_end
+        weight: 1
+      - path: Armature/Back IK.R
+        weight: 1
+      - path: Armature/Back IK.R/Back IK.R_end
+        weight: 1
+      - path: Armature/Front IK.L
+        weight: 1
+      - path: Armature/Front IK.L/Front IK.L_end
+        weight: 1
+      - path: Armature/Front IK.R
+        weight: 1
+      - path: Armature/Front IK.R/Front IK.R_end
+        weight: 1
+      - path: Armature/Knee Back.L
+        weight: 1
+      - path: Armature/Knee Back.L/Knee Back.L_end
+        weight: 1
+      - path: Armature/Knee back.R
+        weight: 1
+      - path: Armature/Knee back.R/Knee back.R_end
+        weight: 1
+      - path: Armature/Knee Front.L
+        weight: 1
+      - path: Armature/Knee Front.L/Knee Front.L_end
+        weight: 1
+      - path: Armature/Knee Front.R
+        weight: 1
+      - path: Armature/Knee Front.R/Knee Front.R_end
+        weight: 1
+      - path: Armature/Stomach
+        weight: 1
+      - path: Armature/Stomach/Chest
+        weight: 1
+      - path: Armature/Stomach/Chest/Neck
+        weight: 1
+      - path: Armature/Stomach/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Stomach/Chest/Neck/Head/Head_end
+        weight: 1
+      - path: Armature/Stomach/Chest/Neck/Shoulder.L
+        weight: 1
+      - path: Armature/Stomach/Chest/Neck/Shoulder.L/Front Up.L
+        weight: 1
+      - path: Armature/Stomach/Chest/Neck/Shoulder.L/Front Up.L/Front Low.L
+        weight: 1
+      - path: Armature/Stomach/Chest/Neck/Shoulder.L/Front Up.L/Front Low.L/Front
+          foot.L
+        weight: 1
+      - path: Armature/Stomach/Chest/Neck/Shoulder.L/Front Up.L/Front Low.L/Front
+          foot.L/Front foot.L_end
+        weight: 1
+      - path: Armature/Stomach/Chest/Neck/Shoulder.R
+        weight: 1
+      - path: Armature/Stomach/Chest/Neck/Shoulder.R/Fron Up.R
+        weight: 1
+      - path: Armature/Stomach/Chest/Neck/Shoulder.R/Fron Up.R/Front Low.R
+        weight: 1
+      - path: Armature/Stomach/Chest/Neck/Shoulder.R/Fron Up.R/Front Low.R/Bone.019
+        weight: 1
+      - path: Armature/Stomach/Chest/Neck/Shoulder.R/Fron Up.R/Front Low.R/Bone.019/Bone.019_end
+        weight: 1
+      - path: Armature/Stomach/Hip.L
+        weight: 1
+      - path: Armature/Stomach/Hip.L/Back Up leg.L
+        weight: 1
+      - path: Armature/Stomach/Hip.L/Back Up leg.L/Back low.L
+        weight: 1
+      - path: Armature/Stomach/Hip.L/Back Up leg.L/Back low.L/Back foot.L
+        weight: 1
+      - path: Armature/Stomach/Hip.L/Back Up leg.L/Back low.L/Back foot.L/Back foot.L_end
+        weight: 1
+      - path: Armature/Stomach/Hip.R
+        weight: 1
+      - path: Armature/Stomach/Hip.R/Back Up leg.R
+        weight: 1
+      - path: Armature/Stomach/Hip.R/Back Up leg.R/Back low.R
+        weight: 1
+      - path: Armature/Stomach/Hip.R/Back Up leg.R/Back low.R/Back foot.R
+        weight: 1
+      - path: Armature/Stomach/Hip.R/Back Up leg.R/Back low.R/Back foot.R/Back foot.R_end
+        weight: 1
+      - path: body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
